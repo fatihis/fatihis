@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
+![Profile views](https://gpvc.arturio.dev/fatihis)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
