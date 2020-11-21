@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<!--
-**fatihis/fatihis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
